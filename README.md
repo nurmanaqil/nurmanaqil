@@ -34,6 +34,12 @@ Currently, I'm exploring a long-term direction in AI product management, bridgin
 **Data & Image Processing:**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+## 📊 Project Management & Operations
+
+Beyond the code, I have hands-on experience in **project controlling, financial planning, and cross-functional team leadership**. 
+
+I specialize in evaluating workflows, optimizing resource allocation, and translating complex operational bottlenecks into structured, trackable systems. This operational background enables me to manage software projects effectively, ensuring that technical solutions align directly with real-world business needs and constraints.
+
 ## 🚀 Selected Projects
 
 | Project | Overview | Technologies |
@@ -41,12 +47,6 @@ Currently, I'm exploring a long-term direction in AI product management, bridgin
 | [Face Recognition](https://github.com/nurmanaqil/Face-Recognition) | Eigenfaces-based face recognition model with an interactive UI. | Python, Streamlit, OpenCV, NumPy |
 | [PCA Image Compression](https://github.com/nurmanaqil/Image-Compression) | PCA-based image reconstruction tool with visual comparisons. | Python, Flask, scikit-learn, NumPy |
 | [OOP Team Project](https://github.com/nurmanaqil/PBO---Team-Project-aqil-) | Core Java application emphasizing object-oriented principles. | Java |
-
-## 📊 Project Management & Operations
-
-Beyond the code, I have hands-on experience in **project controlling, financial planning, and cross-functional team leadership**. 
-
-I specialize in evaluating workflows, optimizing resource allocation, and translating complex operational bottlenecks into structured, trackable systems. This operational background enables me to manage software projects effectively, ensuring that technical solutions align directly with real-world business needs and constraints.
 
 ## 🌱 What I'm Exploring
 
