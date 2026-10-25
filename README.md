@@ -46,7 +46,7 @@ I'm currently working toward a long-term direction in **AI product management**,
 ## 💼 Experience
 
 ### Project Controlling & Operations
-**[Organization / Role Name]** · [Year – Year]
+**[AIESEC in UNS | Project Controlling Manager]** · [2026 – 2027]
 
 - Controlled project budgets and supported financial planning
 - Led and coordinated cross-functional teams
