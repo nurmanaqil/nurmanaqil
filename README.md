@@ -7,7 +7,7 @@
 **Nurman Aqil Wicaksono**  
 Informatics Undergraduate · Universitas Sebelas Maret · Indonesia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/nurman-aqil-wicaksono-b0b528326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurman-aqil-wicaksono-b0b528326/)
 [![GitHub](https://img.shields.io/badge/GitHub-nurmanaqil-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nurmanaqil)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nurmanaqil.11@gmail.com)
 
@@ -19,26 +19,40 @@ Informatics Undergraduate · Universitas Sebelas Maret · Indonesia
 
 I'm an Informatics undergraduate at Universitas Sebelas Maret, passionate about software development, AI, and building efficient digital solutions.
 
-My technical background includes developing face recognition models, image compression tools, and object-oriented applications. Beyond writing code, my strong foundation in **project management and operations** heavily shapes how I approach technology. I believe that building great software requires more than just technical skills—it requires understanding user workflows, stakeholder coordination, and defining the right problems to solve.
+My technical background includes face recognition models, image compression tools, and object-oriented applications. Beyond writing code, my foundation in **project management and operations** shapes how I approach technology: great software needs more than technical skill. It needs an understanding of user workflows, stakeholder coordination, and a clear definition of the problem worth solving.
 
-Currently, I'm exploring a long-term direction in AI product management, bridging the gap between technical execution and strategic project delivery.
+I'm currently working toward a long-term direction in **AI product management**, bridging technical execution and strategic project delivery.
 
-## 🛠️ Technologies & Tools
+---
 
-**Programming:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🛠️ Tech Stack
 
-**Web & Interfaces:**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Programming
+<img src="https://skillicons.dev/icons?i=python,java,kotlin&theme=dark" alt="Programming" />
 
-**Data & Image Processing:**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Web & Interfaces
+<img src="https://skillicons.dev/icons?i=flask,html,css,js&theme=dark" alt="Web" />
 
-## 📊 Project Management & Operations
+### Data & Image Processing
+<img src="https://skillicons.dev/icons?i=numpy,opencv,sklearn&theme=dark" alt="Data" />
 
-Beyond the code, I have hands-on experience in **project controlling, financial planning, and cross-functional team leadership**. 
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
 
-I specialize in evaluating workflows, optimizing resource allocation, and translating complex operational bottlenecks into structured, trackable systems. This operational background enables me to manage software projects effectively, ensuring that technical solutions align directly with real-world business needs and constraints.
+---
+
+## 💼 Experience
+
+### Project Controlling & Operations
+**[Organization / Role Name]** · [Year – Year]
+
+- Controlled project budgets and supported financial planning
+- Led and coordinated cross-functional teams
+- Evaluated workflows and optimized resource allocation
+- Translated operational bottlenecks into structured, trackable systems
+- Aligned deliverables with real-world business needs and constraints
+
+---
 
 ## 🚀 Selected Projects
 
@@ -48,15 +62,49 @@ I specialize in evaluating workflows, optimizing resource allocation, and transl
 | [PCA Image Compression](https://github.com/nurmanaqil/Image-Compression) | PCA-based image reconstruction tool with visual comparisons. | Python, Flask, scikit-learn, NumPy |
 | [OOP Team Project](https://github.com/nurmanaqil/PBO---Team-Project-aqil-) | Core Java application emphasizing object-oriented principles. | Java |
 
-## 🌱 What I'm Exploring
+---
 
-- Software architecture and full-stack development
-- Applied AI and digital image processing
-- Agile project management and product development
+## 🌱 Currently Learning
 
-## 💬 Let's Connect
+- AI Product Management
+- Software Architecture & Full-Stack Development
+- Applied AI and Digital Image Processing
+- Agile Project Management and Product Development
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurmanaqil/nurmanaqil/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurmanaqil/nurmanaqil/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/nurmanaqil/nurmanaqil/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurman-aqil-wicaksono-b0b528326/)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurmanaqil.11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurmanaqil)
+
+</div>
 
 I'm open to collaborations, student projects, and conversations about tech, project management, and AI.
 
-- **LinkedIn:** [Nurman Aqil Wicaksono](https://www.linkedin.com/in/nurman-aqil-wicaksono-b0b528326/)
-- **Email:** [nurmanaqil.11@gmail.com](mailto:nurmanaqil.11@gmail.com)
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nurmanaqil&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+---
+
+*"Building reliable software, solving real problems, and continuously improving as an engineer."*
+
+</div>
