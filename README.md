@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Aqil 👋
+<a href="https://github.com/nurmanaqil">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=420&height=60&lines=Hi,+I'm+Aqil" alt="Hi, I'm Aqil" />
+</a>
 
 ### Exploring software, AI, and the problems worth solving.
 
@@ -15,7 +17,7 @@ Informatics Undergraduate · Universitas Sebelas Maret · Indonesia
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm an Informatics undergraduate at Universitas Sebelas Maret, passionate about software development, AI, and building efficient digital solutions.
 
@@ -44,7 +46,7 @@ I'm currently working toward a long-term direction in **AI product management**,
 ## 💼 Experience
 
 ### Project Controlling & Operations
-**[AIESEC in UNS / Project Controlling Manager]** · [2026 – 2027]
+**[Organization / Role Name]** · [Year – Year]
 
 - Controlled project budgets and supported financial planning
 - Led and coordinated cross-functional teams
