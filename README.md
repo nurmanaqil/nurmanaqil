@@ -33,7 +33,7 @@ I'm currently working toward a long-term direction in **AI product management**,
 <img src="https://skillicons.dev/icons?i=python,java,kotlin&theme=dark" alt="Programming" />
 
 ### Web & Interfaces
-<img src="https://skillicons.dev/icons?i=flask,html,css,js&theme=dark" alt="Web" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,flask,html,css,js&theme=dark" alt="React, Vite, Tailwind CSS, Flask, HTML, CSS, JavaScript" />
 
 ### Data & Image Processing
 <img src="https://skillicons.dev/icons?i=numpy,opencv,sklearn&theme=dark" alt="Data" />
